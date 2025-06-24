@@ -4,6 +4,7 @@ Screenshots folder contains all the screenshots referenced in this document.
 No email address spoofing found!
 
 Checked email header for discrepancies and found that the message failed DMARC compliance.(Screenshot 2,3)
+Tools used: MXtoolbox
 
 No suspicious links or attachments found.
 
