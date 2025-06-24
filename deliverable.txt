@@ -1,5 +1,6 @@
 #Phishing Email analysis
 Screenshots folder contains all the screenshots referenced in this document.
+1st screenshot is the phishing email.
 
 No email address spoofing found!
 
