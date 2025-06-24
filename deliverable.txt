@@ -1,0 +1,22 @@
+#Phishing Email analysis
+Screenshots folder contains all the screenshots referenced in this document.
+
+No email address spoofing found!
+
+Checked email header for discrepancies and found that the message failed DMARC compliance.(Screenshot 2,3)
+
+No suspicious links or attachments found.
+
+No URL's and grammatical errors found in the message.
+
+Important and urgent type language found in the subject and main body.
+Credit card details have been asked for enrollment in this offer.(highlighted in screenshot 1)
+Also, social engineering attempt by asking for personal information like net banking password.
+(Underlined statement in screenshot 1)
+
+Thus, this can be categorized as a poorly crafted phishing mail.
+
+
+
+
+
